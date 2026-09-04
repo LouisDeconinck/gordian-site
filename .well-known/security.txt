@@ -1,0 +1,5 @@
+Contact: mailto:security@gordian.be
+Preferred-Languages: en, nl, fr
+Canonical: https://gordian.be/.well-known/security.txt
+Policy: https://gordian.be/#principles
+Expires: 2027-09-04T00:00:00.000Z
